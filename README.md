@@ -58,8 +58,11 @@ Running `task1_signal_engineering.py` prints:
 
 ### Key Assumption
 
-*Expense Velocity* is defined here as total operating expenses (Inventory +
+* Most important and consequential: The transaction provided are representative or exhaustive set of inflow/outflow for the business.  
+* Expense Velocity* is defined here as total operating expenses (Inventory +
 Operations + Equipment + Tech/Growth) divided by client revenue. Saving entries are excluded
+
+
 ---
 
 ## Task 2: RAG Dataset Creation 
