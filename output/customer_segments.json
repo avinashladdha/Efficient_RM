@@ -1,0 +1,36 @@
+{
+  "client_id": "elite_builds_llc",
+  "period": "2026-Q1",
+  "behavioral": {
+    "monthly_revenue_usd": 112000,
+    "net_margin_pct": 53.2,
+    "inventory_rev_ratio_pct": 27.5,
+    "expense_velocity_pct": 46.8,
+    "growth_reinvestment_pct": 14.0,
+    "savings_active": true,
+    "cash_flow_status": "positive",
+    "expense_velocity_flag": "low"
+  },
+  "demographics": {
+    "business_type": "SMB",
+    "industry": "residential_construction",
+    "location": "Utah, USA",
+    "revenue_tier": "mid_market"
+  },
+  "psychographics": {
+    "brand_affinity": [
+      "AutoCAD",
+      "local_SEO_marketing"
+    ],
+    "lifestyle": "growth_oriented_operator",
+    "risk_profile": "calculated_contrarian_investor",
+    "financial_discipline": "high"
+  },
+  "growth_signals": {
+    "resilience_alpha": "margin_53.2pct_vs_industry_4pct",
+    "inventory_containment": "27.5pct_vs_est_industry_40pct",
+    "growth_reinvestment": "equipment_capex_plus_tech_plus_savings"
+  },
+  "recommended_product": "business_growth_line_of_credit",
+  "credit_risk_assessment": "low"
+}
